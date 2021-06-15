@@ -8,7 +8,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "rollup-plugin-elm": "^2.0.2",
-    "vite": "^2.0.5"
+    "vite": "^2.0.5",
+    "vite-plugin-elm": "git@github.com:lettenj61/vite-plugin-elm.git#0.1.2"
   }
 }

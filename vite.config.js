@@ -1,4 +1,4 @@
-import elm from 'rollup-plugin-elm';
+import elm from 'vite-plugin-elm';
 
 export default {
   plugins: [
